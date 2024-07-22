@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="54.5263mm" height="52.5196mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5618.45 5411.68"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="804" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Renogare Soft">
+		<font-face-src>
+			<font-face-name name="RenogareSoft-Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="O" horiz-adv-x="879" d="M434 -13.9994c-70.6676,0 -136.001,16.9996 -196,50.9988 -59.9993,34.0006 -107.999,80.3344 -144,139.001 -35.3331,58.6654 -53.0003,121.999 -53.0003,190 0,67.3321 17.5011,130.333 52.5003,189 35.0007,58.6669 82.8331,104.999 143.5,139 60.0008,33.9992 125.667,51.0002 197,51.0002 71.3324,0 137.166,-16.8334 197.499,-50.5002 60.3346,-33.6668 108.501,-79.8329 144.5,-138.5 35.3345,-59.3345 53.0003,-122.668 53.0003,-190 0,-68.0012 -17.6658,-131.335 -53.0003,-190 -35.3331,-58.6669 -83.3331,-105.001 -144,-139.001 -60.6655,-33.9992 -126.667,-50.9988 -197.999,-50.9988zm0 615c-41.9997,0 -81.0006,-10.6668 -117,-32.0005 -36.0007,-21.3337 -65.0011,-50.3325 -87.0009,-86.9995 -21.3322,-36.667 -31.9991,-75.3341 -31.9991,-116 0,-41.3334 10.6668,-80.1667 31.9991,-116.5 21.3337,-36.3346 50.0001,-65.5011 86.0009,-87.501 35.9993,-21.9999 75.3326,-32.9991 118,-32.9991 41.9997,0 81.333,10.9992 118,32.9991 36.667,21.9999 65.6658,51.334 86.9995,88.001 20.6674,35.3331 31.0004,73.9987 31.0004,116 0,41.3334 -10.5006,79.9991 -31.5005,116 -20.9998,35.9993 -49.5001,64.9996 -85.4994,86.9995 -37.3332,21.3337 -77.0003,32.0005 -119,32.0005z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Renogare Soft";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:30.59;stroke-miterlimit:2.61313}
+    .str1 {stroke:white;stroke-width:218.1;stroke-miterlimit:2.61313}
+    .fil0 {fill:black}
+    .fil1 {fill:#D6006E}
+    .fnt0 {font-weight:normal;font-size:7130.02px;font-family:'Renogare Soft'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-292.33" y="5311.87"  class="fil0 fnt0">O</text>
+  <text x="5982.09" y="5311.87"  class="fil0 str1 fnt0"> </text>
+  <circle class="fil1" cx="2809.24" cy="2705.85" r="1040.46"/>
+ </g>
+</svg>
